@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="main_bg">#354052</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="split_line2">#51627F</color><!-- 分割线颜色 -->
+    <color name="floors_menu_bg">#5B6F90</color><!-- 选择的背景颜色 -->
+     <color name="txt_wr_floor_checked">#FF9600</color><!-- 选中的颜色 -->
+
+</resources>

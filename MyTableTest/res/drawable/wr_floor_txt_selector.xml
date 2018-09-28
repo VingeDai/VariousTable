@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_checked="true" android:color="@color/txt_wr_floor_checked"/>
+    <!-- not selected -->
+    <item android:color="@color/white"/>
+
+</selector>
